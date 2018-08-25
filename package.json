@@ -1,0 +1,19 @@
+{
+  "name": "@ngyv/puppeteer-gif-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "fs": "0.0.1-security",
+    "gifencoder": "^1.1.0",
+    "puppeteer": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yvonne Ng <ngyv.codes@gmail.com> (github.com/ngyv)",
+  "license": "ISC"
+}
